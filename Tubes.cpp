@@ -25,6 +25,8 @@ void DataPenulis(ListP &LP, infoP x){
         prev(p) = LastP(LP);
         LastP(LP) = p;
     }
+    
+    //* STEP 6 WASGLOBAL EDIT FILE TAMBAHKAN KOMENTAR
 
 }
 void DataArtikel(ListA &LA, infoA x){
